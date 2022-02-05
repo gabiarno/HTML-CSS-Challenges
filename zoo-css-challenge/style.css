@@ -144,8 +144,12 @@ footer {
   color: #F4743B;
 }
 
-.giraffe p:first-of-type {
+.giraffe p {
   color: #F4743B;
+  
+}
+
+.giraffe p:first-of-type {
   font-size: 125%;
 }
 
